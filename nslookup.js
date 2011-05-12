@@ -1,6 +1,4 @@
-// This is a sample plugin that will display
-// the temperature for a given zip code when
-// someone types !weather ZIPCODE in a channel.
+// Simple nslookup plugin. Resolves a given hostname.
 
 var dns = require('dns');
 
